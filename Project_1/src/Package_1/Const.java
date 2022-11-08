@@ -2,7 +2,7 @@ package Package_1;
 
 public class Const {
 	public Const() {
-		this(1,2,3,4);
+		this(1,2,322,433);
 		System.out.println("default");
 	}
 	public Const(int a) {

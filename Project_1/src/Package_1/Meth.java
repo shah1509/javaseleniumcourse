@@ -4,7 +4,7 @@ public class Meth {
 	public void m1() {
 		this.m4(1, 2, 3);
 		System.out.println("default");
-		this.m5(1, 2, 3, 4);
+		this.m5(1, 111, 222, 333);
 		this.m2(1);
 		this.m3(1, 2);
 	}
